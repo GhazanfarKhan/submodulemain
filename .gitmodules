@@ -1,0 +1,4 @@
+[submodule "submodulechild"]
+	path = submodulechild
+	url = https://github.com/GhazanfarKhan/submodulechild.git
+	branch = master
